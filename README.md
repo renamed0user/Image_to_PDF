@@ -19,11 +19,21 @@
 5. Enter a name for the PDF file.
 6. Tap on "Generate PDF" to create and save your PDF.
 
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/renamed0user/weather-app.git
+   ```
+2. Open the project in a development environment (e.g., Android Studio).
+3. Run the app on an emulator or a real device.
+
 ## Requirements
 
 - Android 5.0 (Lollipop) or higher.
 - Permissions to access storage for selecting images and saving the PDF.
 
-## License
+## Contact
+For any questions or suggestions, feel free to reach out at: [andriyhalalay@gmail.com](mailto:andriyhalalay@gmail.com)
 
-This app is licensed under the [MIT License](LICENSE).
+---
+Convert your images into a PDF and stay organized! 📸📄✨
